@@ -1,6 +1,6 @@
-# Name: Albert 
+# Name: Albert Hou
 
-# Partner: No one
+# Partner: Ian Lam
 
 # Year-11-CS-Unit-6-Lab-RankingSystem
 
