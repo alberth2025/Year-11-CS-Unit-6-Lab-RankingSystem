@@ -1,3 +1,7 @@
+# Name: Albert 
+
+# Partner: No one
+
 # Year-11-CS-Unit-6-Lab-RankingSystem
 
 Your job is to create one class called User.
